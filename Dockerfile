@@ -2,7 +2,7 @@
 ## Dockerfile to build the ga4gh server on mod_wsgi-express
 ## Configurable to use a local dataset
 ############################################################
-FROM ubuntu
+FROM ubuntu:22.10
 
 # Originally created by Steve Hershman GitHub @hershman
 # previously maintained by Alastair Firth, and Maciek Smuga-Otto of the
