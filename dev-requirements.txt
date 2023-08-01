@@ -26,7 +26,7 @@ PyVCF==0.6.7
 freezegun==0.3.6
 guppy==0.1.10
 snakefood==1.4
-Sphinx==1.4.6
+Sphinx==3.3.0
 sphinx_rtd_theme
 
 # Requirements for OIDC provider
