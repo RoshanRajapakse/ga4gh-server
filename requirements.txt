@@ -44,9 +44,9 @@ peewee==2.8.5
 
 # Flask must come after all other requirements that have "flask" as a
 # prefix due to a setuptools bug.
-Flask-Cors==2.0.1
+Flask-Cors==6.0.0
 Flask==0.10.1
-protobuf==3.1.0.post1
+protobuf==4.25.8
 humanize==0.5.1
 pysam==0.9.0
 requests==2.7.0
